@@ -571,6 +571,9 @@ background-color: black;
     width:50%;
   }
   .home img{
+  width:100%;
+}
+  .home img{
     width:500px;
     height: 400px;
   }
